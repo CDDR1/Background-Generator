@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    text-align: center;
+    background: linear-gradient(to right, #2CC0f2, #D71FEF);
+}
+
+h1 {
+    font-family: 'Arimo', sans-serif;
+    margin: 30px;
+    font-size: 50px;
+    letter-spacing: 20px;
+    opacity: 0.7;
+}
+
+h2 {
+    margin: 20px;
+    opacity: 0.7;
+}
+
+h3 {
+    font-family: sans-serif;
+}
